@@ -1,2 +1,2 @@
-# Assembly_school_assignment
+# Assembly_game_assignment
 A game made in assembly for the P3 processor
